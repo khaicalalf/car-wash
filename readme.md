@@ -11,7 +11,7 @@ Starter kit berbasis **Laravel 12** dengan integrasi:
 ## ⚙️ Install
 
 ```bash
-npm install
+laravel new car-wash
 npm run dev
 npm run build
 ```
